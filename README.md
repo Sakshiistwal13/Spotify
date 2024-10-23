@@ -7,12 +7,17 @@ The objective of this dashboard is to provide detailed insights into Spotify's s
 
 ## Steps followed:
 
-Data Collection: Gathered Spotify streaming data, including track details, release dates, artist information, and daily streaming counts.
-Data Cleaning & Transformation: Used Power Query to clean and transform the dataset, ensuring accuracy for analysis.
-KPI Identification: Defined key metrics such as total streams, average streams, and most streamed tracks to highlight performance insights.
-Visualization Creation: Designed visual components in Power BI, including trend graphs, tables, and charts, to showcase metrics like monthly streams, daily activity, and top tracks.
-Insights Generation: Analyzed data to generate insights on peak streaming times, artist performance, and historical trends, providing actionable information for decision-making.
-Dashboard Optimization: Applied interactive filters (date, artist, track) for a dynamic and user-friendly experience, enabling deeper exploration of the data.
+1)Data Collection: Gathered Spotify streaming data, including track details, release dates, artist information, and daily streaming counts.
+
+2)Data Cleaning & Transformation: Used Power Query to clean and transform the dataset, ensuring accuracy for analysis.
+
+3)KPI Identification: Defined key metrics such as total streams, average streams, and most streamed tracks to highlight performance insights.
+
+4)Visualization Creation: Designed visual components in Power BI, including trend graphs, tables, and charts, to showcase metrics like monthly streams, daily activity, and top tracks.
+
+5)Insights Generation: Analyzed data to generate insights on peak streaming times, artist performance, and historical trends, providing actionable information for decision-making.
+
+6)Dashboard Optimization: Applied interactive filters (date, artist, track) for a dynamic and user-friendly experience, enabling deeper exploration of the data.
 
 
 ## Dashboard:

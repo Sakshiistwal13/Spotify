@@ -22,7 +22,7 @@ The objective of this dashboard is to provide detailed insights into Spotify's s
 
 ## Dashboard:
 
-![]()
+![Spotify](https://github.com/Sakshiistwal13/Spotify/blob/main/spotify.png)
 
 ## Insights generated:
 
